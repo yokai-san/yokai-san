@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yokai-san
-- 👀 I’m interested in all things tech, oh & games
+- 👀 I’m interested in all things tech, oh & gaming
 - 🌱 I’m currently learning Frontend-HTML, CSS, JavaScript / Backend-Python, SQL
 
 
